@@ -36,7 +36,7 @@ cd to **products/app** folder and:
 export FLASK_APP=app.py
 flask run
 ```
-This should sart the server on localhost or displayed IP as above commands output
+This should sart the server on localhost:5001 or displayed IP as above commands output
 
 ### Available EndPoints
 
