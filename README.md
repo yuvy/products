@@ -41,6 +41,7 @@ This should sart the server on localhost or displayed IP as above commands outpu
 ### Available EndPoints
 
 /prod/<int: product_id>
+
 retruns product details for specified product id, if present else returns error message
 
 example:
@@ -56,6 +57,7 @@ example:
 ```
 
 /cheapest/<int:n>
+
 returns list of cheapest products of **n** length.
 
 eample:
