@@ -19,7 +19,7 @@ ingest_data.py is a simple script which accepts csv file as argument,
 then parses the csv file and ingest data into the DB.
 Note: It is assumed that the csv file will be of format specific for this exercise.
 
-To execute the script and ingest datt, cd to the directory and:
+To execute the script and ingest data, cd to the directory and:
 
 ```python
 python ingest_data.py path_to_csv_file
