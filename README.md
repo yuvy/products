@@ -56,7 +56,7 @@ example:
 }
 ```
 
-/cheapest/<int:n>
+/cheapest/<int: n>
 
 returns list of cheapest products of **n** length.
 
