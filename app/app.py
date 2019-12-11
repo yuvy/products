@@ -23,6 +23,7 @@ api = Api(app)
 
 db.init_app(app)
 
+
 class GetProds(Resource):
     """
     Endpoint for products
