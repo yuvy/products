@@ -3,7 +3,7 @@ Simple Flask RestAPI to retrieve product information
 
 ---
 
-## Install Dependincies
+## Install Dependencies
 
 cd to **products** folder and:
 
